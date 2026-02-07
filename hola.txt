@@ -1,5 +1,5 @@
 1- Pokemones Iniciales Clásicos (Kanto)
-Son los que empezaron todo en la primera generación.
+Son los que empezaron todo en la primera generación
 
 Bulbasaur (Planta/Veneno)
 Charmander (Fuego)
